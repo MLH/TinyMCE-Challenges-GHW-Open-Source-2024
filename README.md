@@ -52,7 +52,7 @@ If you're looking for a great way to make your development projects more robust,
 #### Documentation:
 * [TinyMCE Revision History Plugin](https://mlh.link/ghwos24-tinymce-revisionhistory)
 
-## Coding Challenge 5
+## Challenge 5
 ### Integrate AI Assistant with TinyMCE in 3 Steps
 #### Objectives: 
 * Choose from AI providers like OpenAI, Azure AI, AWS Bedrock, or Gemini and integrate AI Assistant capabilities into TinyMCE for smarter content creation.
