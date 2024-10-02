@@ -15,7 +15,7 @@ If you're looking for a great way to make your development projects more robust,
 
 #### Objectives: 
 * Install and set up TinyMCE from scratch in a framework of your choice (React, Vue, Angular, or Vanilla JS).
-* Share your implementation with us on our submission form and bonus points if you add your project to [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Share your implementation with us on our submission form and bonus points if you add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
 * [TinyMCE Quick Start Guide](https://mlh.link/ghwos24-tinymce-quickstart)
@@ -25,7 +25,7 @@ If you're looking for a great way to make your development projects more robust,
 
 #### Objectives: 
 * Choose and integrate two to three open-source plugins (e.g., Autolink, Full Screen, Table) to enhance your editor.
-* Share your implementation with us on our submission form and bonus points if you add your project to [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Share your implementation with us on our submission form and bonus points if you add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
 * [TinyMCE Open Source Plugins](https://mlh.link/ghwos24-tinymce-osplugins)
@@ -37,7 +37,7 @@ If you're looking for a great way to make your development projects more robust,
 ### Level Up TinyMCE with Accessibility or Spellchecker
 #### Objectives: 
 * Choose between improving your editor’s Accessibility features or adding the Spellchecker plugin for error-free content.
-* Share your implementation with us on our submission form and bonus points if you add your project to [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Share your implementation with us on our submission form and bonus points if you add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation:
 * [TinyMCE Accessibility Checker Plugin](https://mlh.link/ghwos24-tinymce-accessibility)
@@ -47,7 +47,7 @@ If you're looking for a great way to make your development projects more robust,
 ### Add Revision History to Your Editor
 #### Objectives: 
 * Add the Revision History plugin to enable version control for your content, allowing users to track changes and revert to previous versions.
-* Share your implementation with us on our submission form and bonus points if you add your project to [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Share your implementation with us on our submission form and bonus points if you add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation:
 * [TinyMCE Revision History Plugin](https://mlh.link/ghwos24-tinymce-revisionhistory)
@@ -56,7 +56,7 @@ If you're looking for a great way to make your development projects more robust,
 ### Integrate AI Assistant with TinyMCE in 3 Steps
 #### Objectives: 
 * Choose from AI providers like OpenAI, Azure AI, AWS Bedrock, or Gemini and integrate AI Assistant capabilities into TinyMCE for smarter content creation.
-* Share your implementation with us on our submission form and bonus points if you add your project to [Devpost Page](https://mlh.link/ghwdevpost)! 
+* Share your implementation with us on our submission form and bonus points if you add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
 * [TinyMCE AI Assistant Documentation](https://mlh.link/ghwos24-tinymce-aiassistant)
