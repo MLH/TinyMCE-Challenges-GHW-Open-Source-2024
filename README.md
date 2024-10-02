@@ -1,4 +1,4 @@
-# Welcome to the TinyMCE GHW: Cloud Week Challenge Page!
+# Welcome to the TinyMCE GHW: Open Source Week Challenge Page!
 
 Hello hackers! TinyMCE is the developers’ WYSIWYG editor-of-choice for building SaaS web applications faster. <br><br>
 If you're looking for a great way to make your development projects more robust, TinyMCE is a way to get started. 
